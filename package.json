@@ -1,0 +1,25 @@
+{
+  "name": "brick-components",
+  "version": "1.0.0",
+  "description": "Build your application with a well defined components as useful as bricks for your house.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibrancopc/brick-components.git"
+  },
+  "keywords": [
+    "components",
+    "design",
+    "system",
+    "library"
+  ],
+  "author": "Guilherme Carvalho",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guibrancopc/brick-components/issues"
+  },
+  "homepage": "https://github.com/guibrancopc/brick-components#readme"
+}
